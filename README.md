@@ -1,3 +1,3 @@
 # hello-world
 
-Hello World! This is Nur. I am learning to work with GitHub!
+This is my first commit to be compared with main branch
